@@ -1,0 +1,293 @@
+[20:07:36] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.6
+[20:07:37] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.6
+	   \-- mixinextras 0.4.1
+	- java 23
+	- minecraft 1.21.1
+[20:07:37] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Arnesh%20Batra/Desktop/Minecraft%20server/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:07:46] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:07:49] [main/INFO]: Loaded 1290 recipes
+[20:07:49] [main/INFO]: Loaded 1399 advancements
+[20:07:49] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[20:07:49] [Server thread/INFO]: Loading properties
+[20:07:49] [Server thread/INFO]: Default game type: SURVIVAL
+[20:07:49] [Server thread/INFO]: Generating keypair
+[20:07:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:07:50] [Server thread/INFO]: Using default channel type
+[20:07:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:07:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:07:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:07:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:07:50] [Server thread/INFO]: Preparing level "world"
+[20:07:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:07:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:07:51] [Server thread/INFO]: Time elapsed: 346 ms
+[20:07:51] [Server thread/INFO]: Done (1.257s)! For help, type "help"
+[20:10:55] [Server thread/INFO]: daddiji1.1[/10.212.133.17:63170] logged in with entity id 20 at (-227.93926516490902, 63.0, 1135.2831477985583)
+[20:10:55] [Server thread/INFO]: daddiji1.1 joined the game
+[20:11:13] [Server thread/INFO]: berserk_3984[/10.212.133.10:53677] logged in with entity id 394 at (-193.3322682415836, 65.0, 1189.2338139158624)
+[20:11:13] [Server thread/INFO]: berserk_3984 joined the game
+[20:11:25] [Server thread/INFO]: [Not Secure] <daddiji1.1> leave
+[20:11:30] [Server thread/INFO]: berserk_3984 lost connection: Disconnected
+[20:11:30] [Server thread/INFO]: berserk_3984 left the game
+[20:11:41] [Server thread/INFO]: /advancement (grant|revoke)
+[20:11:41] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[20:11:41] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[20:11:41] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[20:11:41] [Server thread/INFO]: /clear [<targets>]
+[20:11:41] [Server thread/INFO]: /clone (<begin>|from)
+[20:11:41] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[20:11:41] [Server thread/INFO]: /data (merge|get|remove|modify)
+[20:11:41] [Server thread/INFO]: /datapack (enable|disable|list)
+[20:11:41] [Server thread/INFO]: /debug (start|stop|function)
+[20:11:41] [Server thread/INFO]: /defaultgamemode <gamemode>
+[20:11:41] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[20:11:41] [Server thread/INFO]: /effect (clear|give)
+[20:11:41] [Server thread/INFO]: /me <action>
+[20:11:41] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[20:11:41] [Server thread/INFO]: /experience (add|set|query)
+[20:11:41] [Server thread/INFO]: /xp -> experience
+[20:11:41] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[20:11:41] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[20:11:41] [Server thread/INFO]: /forceload (add|remove|query)
+[20:11:41] [Server thread/INFO]: /function <name> [<arguments>|with]
+[20:11:41] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[20:11:41] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[20:11:41] [Server thread/INFO]: /give <targets> <item> [<count>]
+[20:11:41] [Server thread/INFO]: /help [<command>]
+[20:11:41] [Server thread/INFO]: /item (replace|modify)
+[20:11:41] [Server thread/INFO]: /kick <targets> [<reason>]
+[20:11:41] [Server thread/INFO]: /kill [<targets>]
+[20:11:41] [Server thread/INFO]: /list [uuids]
+[20:11:41] [Server thread/INFO]: /locate (structure|biome|poi)
+[20:11:41] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[20:11:41] [Server thread/INFO]: /msg <targets> <message>
+[20:11:41] [Server thread/INFO]: /tell -> msg
+[20:11:41] [Server thread/INFO]: /w -> msg
+[20:11:41] [Server thread/INFO]: /particle <name> [<pos>]
+[20:11:41] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[20:11:41] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[20:11:41] [Server thread/INFO]: /random (value|roll|reset)
+[20:11:41] [Server thread/INFO]: /reload
+[20:11:41] [Server thread/INFO]: /recipe (give|take)
+[20:11:41] [Server thread/INFO]: /return (<value>|fail|run)
+[20:11:41] [Server thread/INFO]: /ride <target> (mount|dismount)
+[20:11:41] [Server thread/INFO]: /say <message>
+[20:11:41] [Server thread/INFO]: /schedule (function|clear)
+[20:11:41] [Server thread/INFO]: /scoreboard (objectives|players)
+[20:11:41] [Server thread/INFO]: /seed
+[20:11:41] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[20:11:41] [Server thread/INFO]: /spawnpoint [<targets>]
+[20:11:41] [Server thread/INFO]: /setworldspawn [<pos>]
+[20:11:41] [Server thread/INFO]: /spectate [<target>]
+[20:11:41] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[20:11:41] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[20:11:41] [Server thread/INFO]: /summon <entity> [<pos>]
+[20:11:41] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[20:11:41] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[20:11:41] [Server thread/INFO]: /teammsg <message>
+[20:11:41] [Server thread/INFO]: /tm -> teammsg
+[20:11:41] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[20:11:41] [Server thread/INFO]: /tp -> teleport
+[20:11:41] [Server thread/INFO]: /tellraw <targets> <message>
+[20:11:41] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[20:11:41] [Server thread/INFO]: /time (set|add|query)
+[20:11:41] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[20:11:41] [Server thread/INFO]: /trigger <objective> [add|set]
+[20:11:41] [Server thread/INFO]: /weather (clear|rain|thunder)
+[20:11:41] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[20:11:41] [Server thread/INFO]: /jfr (start|stop)
+[20:11:41] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[20:11:41] [Server thread/INFO]: /banlist [ips|players]
+[20:11:41] [Server thread/INFO]: /ban <targets> [<reason>]
+[20:11:41] [Server thread/INFO]: /deop <targets>
+[20:11:41] [Server thread/INFO]: /op <targets>
+[20:11:41] [Server thread/INFO]: /pardon <targets>
+[20:11:41] [Server thread/INFO]: /pardon-ip <target>
+[20:11:41] [Server thread/INFO]: /perf (start|stop)
+[20:11:41] [Server thread/INFO]: /save-all [flush]
+[20:11:41] [Server thread/INFO]: /save-off
+[20:11:41] [Server thread/INFO]: /save-on
+[20:11:41] [Server thread/INFO]: /setidletimeout <minutes>
+[20:11:41] [Server thread/INFO]: /stop
+[20:11:41] [Server thread/INFO]: /transfer <hostname> [<port>]
+[20:11:41] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[20:11:55] [Server thread/INFO]: berserk_3984[/10.212.133.10:53708] logged in with entity id 486 at (-214.46268134958103, 63.0, 1172.2320416137152)
+[20:11:55] [Server thread/INFO]: berserk_3984 joined the game
+[20:12:10] [Server thread/INFO]: Villager class_1646['Farmer'/36, l='ServerLevel[world]', x=-298.45, y=62.96, z=1163.24] died, message: 'Farmer tried to swim in lava'
+[20:12:14] [Server thread/INFO]: [Not Secure] <daddiji1.1> nice work bro
+[20:13:54] [Server thread/INFO]: [Not Secure] <berserk_3984> sun kittu
+[20:14:06] [Server thread/INFO]: [Not Secure] <berserk_3984> gaay le aa 2-3
+[20:14:45] [Server thread/INFO]: [Not Secure] <berserk_3984> kittu tu hai kaha
+[20:15:20] [Server thread/INFO]: [Not Secure] <berserk_3984> kiitu bed bana raha
+[20:15:33] [Server thread/INFO]: [Not Secure] <berserk_3984> 10 boht honge if
+[20:15:56] [Server thread/INFO]: [Not Secure] <daddiji1.1> mai banau ya tu bana raha ?
+[20:16:00] [Server thread/INFO]: [Not Secure] <berserk_3984> mein bana raha
+[20:16:24] [Server thread/INFO]: [Not Secure] <berserk_3984> ban gye
+[20:16:34] [Server thread/INFO]: [Not Secure] <daddiji1.1> oye teri gaaye
+[20:16:50] [Server thread/INFO]: [Not Secure] <berserk_3984> ek hi hai bro
+[20:16:56] [Server thread/INFO]: [Not Secure] <berserk_3984> sax sux karana hai inka
+[20:17:27] [Server thread/INFO]: daddiji1.1 has made the advancement [The Parrots and the Bats]
+[20:17:47] [Server thread/INFO]: [Not Secure] <berserk_3984> kittu sale kabootarbazi kar raha hai
+[20:18:27] [Server thread/INFO]: [Not Secure] <berserk_3984> KITTU
+[20:19:09] [Server thread/INFO]: [Not Secure] <berserk_3984> aja breeding farm
+[20:19:19] [Server thread/INFO]: [Not Secure] <daddiji1.1> yeah bata kahan bana na hai
+[20:19:27] [Server thread/INFO]: [Not Secure] <berserk_3984> AJA MERE PEECHE
+[20:19:51] [Server thread/INFO]: [Not Secure] <berserk_3984> aa na
+[20:20:20] [Server thread/INFO]: [Not Secure] <berserk_3984> yaha underground
+[20:20:28] [Server thread/INFO]: [Not Secure] <daddiji1.1> bada bana hai tu thoda door bana te hai
+[20:20:37] [Server thread/INFO]: [Not Secure] <daddiji1.1> not under graound
+[20:20:44] [Server thread/INFO]: [Not Secure] <berserk_3984> toh fir entry pe dekh lw
+[20:20:51] [Server thread/INFO]: [Not Secure] <berserk_3984> aja
+[20:20:53] [Server thread/INFO]: [Not Secure] <daddiji1.1> breeding hall ko hi fir trading banadenge
+[20:21:22] [Server thread/INFO]: [Not Secure] <berserk_3984> yahan ?
+[20:21:33] [Server thread/INFO]: [Not Secure] <daddiji1.1> land flat karna hoga then
+[20:21:39] [Server thread/INFO]: [Not Secure] <berserk_3984> yes
+[20:21:43] [Server thread/INFO]: [Not Secure] <daddiji1.1> bed laga aur sojaa
+[20:21:48] [Server thread/INFO]: [Not Secure] <berserk_3984> tu ped kaat le
+[20:21:51] [Server thread/INFO]: berserk_3984 lost connection: Disconnected
+[20:21:51] [Server thread/INFO]: berserk_3984 left the game
+[20:22:38] [Server thread/INFO]: berserk_3984[/10.212.133.10:53789] logged in with entity id 3035 at (-263.25505063216826, 70.0, 1058.7490045616264)
+[20:22:38] [Server thread/INFO]: berserk_3984 joined the game
+[20:24:06] [Server thread/INFO]: [Not Secure] <berserk_3984> kittu where
+[20:25:09] [Server thread/INFO]: daddiji1.1 lost connection: Disconnected
+[20:25:09] [Server thread/INFO]: daddiji1.1 left the game
+[20:25:49] [Server thread/INFO]: daddiji1.1[/10.212.133.7:63384] logged in with entity id 3812 at (-294.6846977512535, 66.0, 1098.6608165701396)
+[20:25:49] [Server thread/INFO]: daddiji1.1 joined the game
+[20:28:24] [Server thread/INFO]: [Not Secure] <berserk_3984> kittu aana
+[20:28:39] [Server thread/INFO]: [Not Secure] <daddiji1.1> ruk do stack wood karnede
+[20:30:36] [Server thread/INFO]: [Not Secure] <berserk_3984> yaha ek chest laag de ppehle
+[20:31:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-246, y=68, z=1067} class_2338{x=-246, y=67, z=1067}
+[20:31:56] [Server thread/INFO]: [Not Secure] <daddiji1.1> aur flat kar ana
+[20:32:11] [Server thread/INFO]: [Not Secure] <berserk_3984> chest bana abhi kardunga
+[20:33:07] [Server thread/INFO]: daddiji1.1 lost connection: Disconnected
+[20:33:07] [Server thread/INFO]: daddiji1.1 left the game
+[20:33:17] [Server thread/INFO]: daddiji1.1[/10.212.133.7:61233] logged in with entity id 6430 at (-253.3021024301547, 68.0, 1042.595635294164)
+[20:33:17] [Server thread/INFO]: daddiji1.1 joined the game
+[20:33:22] [Server thread/INFO]: daddiji1.1 lost connection: Disconnected
+[20:33:22] [Server thread/INFO]: daddiji1.1 left the game
+[20:33:24] [Server thread/INFO]: berserk_3984 lost connection: Disconnected
+[20:33:24] [Server thread/INFO]: berserk_3984 left the game
+[20:33:43] [Server thread/INFO]: berserk_3984[/10.212.133.10:53856] logged in with entity id 6476 at (-257.11633497920826, 65.0, 1096.699999988079)
+[20:33:43] [Server thread/INFO]: berserk_3984 joined the game
+[20:33:50] [Server thread/INFO]: daddiji1.1[/10.212.133.7:61236] logged in with entity id 6874 at (-249.18875412183664, 68.0, 1048.5302804779524)
+[20:33:50] [Server thread/INFO]: daddiji1.1 joined the game
+[20:34:02] [Server thread/INFO]: [Not Secure] <berserk_3984> leave
+[20:34:05] [Server thread/INFO]: daddiji1.1 lost connection: Disconnected
+[20:34:05] [Server thread/INFO]: daddiji1.1 left the game
+[20:37:47] [Server thread/INFO]: daddiji1.1[/10.212.133.7:61242] logged in with entity id 7885 at (-251.0011861501423, 71.0, 1068.699999988079)
+[20:37:47] [Server thread/INFO]: daddiji1.1 joined the game
+[20:40:06] [Server thread/INFO]: [Not Secure] <daddiji1.1> layout bata kitna bada aur kitna ucha ?
+[20:40:08] [Server thread/INFO]: [Not Secure] <berserk_3984> aja extend maarte
+[20:40:11] [Server thread/INFO]: [Not Secure] <daddiji1.1> hn
+[20:44:48] [Server thread/INFO]: daddiji1.1 lost connection: Disconnected
+[20:44:48] [Server thread/INFO]: daddiji1.1 left the game
+[20:45:31] [Server thread/INFO]: daddiji1.1[/10.212.133.7:61267] logged in with entity id 9790 at (-239.93699361466915, 68.0, 1062.572766346862)
+[20:45:31] [Server thread/INFO]: daddiji1.1 joined the game
+[20:45:46] [Server thread/INFO]: [Not Secure] <berserk_3984> kittu oak chahiye
+[20:46:00] [Server thread/INFO]: [Not Secure] <berserk_3984> yeh wale na oak
+[20:49:15] [Server thread/INFO]: [Not Secure] <berserk_3984> oye glass banne rakh de
+[20:49:54] [Server thread/INFO]: [Not Secure] <daddiji1.1> wood na hai mai kaat ke aaya
+[20:54:53] [Server thread/INFO]: [Not Secure] <berserk_3984> kya hua
+[20:55:12] [Server thread/INFO]: [Not Secure] <daddiji1.1> abbe ek aadi iron golem andar spawn ho jaata hai
+[20:55:41] [Server thread/INFO]: [Not Secure] <berserk_3984> leave
+[20:55:50] [Server thread/INFO]: daddiji1.1 lost connection: Disconnected
+[20:55:50] [Server thread/INFO]: daddiji1.1 left the game
+[20:56:07] [Server thread/INFO]: daddiji1.1[/10.212.133.7:61277] logged in with entity id 12118 at (-263.7395172627095, 72.0, 1063.6517159046266)
+[20:56:07] [Server thread/INFO]: daddiji1.1 joined the game
+[20:56:34] [Server thread/INFO]: [Not Secure] <berserk_3984> oye yeh bata sand kaha milegi
+[20:56:46] [Server thread/INFO]: [Not Secure] <daddiji1.1> paani me
+[20:59:22] [Server thread/INFO]: [Not Secure] <berserk_3984> OYE FURNACE BANA DE
+[21:00:39] [Server thread/INFO]: [Not Secure] <berserk_3984> furnace
+[21:01:40] [Server thread/INFO]: [Not Secure] <berserk_3984> entry ke liye kuch toh chod de
+[21:02:01] [Server thread/INFO]: [Not Secure] <berserk_3984> ok done
+[21:02:03] [Server thread/INFO]: [Not Secure] <daddiji1.1> tod diyo na
+[21:02:09] [Server thread/INFO]: [Not Secure] <berserk_3984> yeh gate hoga
+[21:02:24] [Server thread/INFO]: [Not Secure] <berserk_3984> oye sun
+[21:02:29] [Server thread/INFO]: [Not Secure] <berserk_3984> carpet le aa
+[21:02:37] [Server thread/INFO]: [Not Secure] <berserk_3984> string se bana ke dye maarke
+[21:03:04] [Server thread/INFO]: [Not Secure] <daddiji1.1> string farm hai to
+[21:03:06] [Server thread/INFO]: [Not Secure] <berserk_3984> ruk mein banake alaya tu upar ka hissa bana le
+[21:03:11] [Server thread/INFO]: [Not Secure] <daddiji1.1> mai second floor bana raha
+[21:03:16] [Server thread/INFO]: [Not Secure] <berserk_3984> ok donw
+[21:06:29] [Server thread/INFO]: [Not Secure] <berserk_3984> leave
+[21:06:31] [Server thread/INFO]: daddiji1.1 lost connection: Disconnected
+[21:06:31] [Server thread/INFO]: daddiji1.1 left the game
+[21:06:51] [Server thread/INFO]: daddiji1.1[/10.212.133.7:61308] logged in with entity id 14509 at (-234.07543143760435, 72.0, 1036.258353993677)
+[21:06:51] [Server thread/INFO]: daddiji1.1 joined the game
+[21:07:34] [Server thread/INFO]: [Not Secure] <daddiji1.1> jaa ped kaat ke laa
+[21:07:54] [Server thread/INFO]: [Not Secure] <berserk_3984> le ja
+[21:11:28] [Server thread/INFO]: [Not Secure] <daddiji1.1> wood hai
+[21:11:34] [Server thread/INFO]: [Not Secure] <daddiji1.1> liyaa 2 satck
+[21:11:41] [Server thread/INFO]: [Not Secure] <daddiji1.1> stack
+[21:11:48] [Server thread/INFO]: [Not Secure] <berserk_3984> na
+[21:11:52] [Server thread/INFO]: [Not Secure] <berserk_3984> hai wood
+[21:12:05] [Server thread/INFO]: [Not Secure] <daddiji1.1> de
+[21:12:22] [Server thread/INFO]: [Not Secure] <berserk_3984> kya nahi hai wood
+[21:15:36] [Server thread/INFO]: [Not Secure] <berserk_3984> BRO TUNE GHAR TABAH KARD IYE
+[21:17:25] [Server thread/INFO]: daddiji1.1 lost connection: Disconnected
+[21:17:25] [Server thread/INFO]: daddiji1.1 left the game
+[21:17:45] [Server thread/INFO]: daddiji1.1[/10.212.133.7:61337] logged in with entity id 16569 at (-236.01320353542383, 72.0, 1042.7453228630065)
+[21:17:45] [Server thread/INFO]: daddiji1.1 joined the game
+[21:18:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-276, y=64, z=1147} class_2338{x=-278, y=63, z=1148}
+[21:18:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-276, y=64, z=1147} class_2338{x=-278, y=63, z=1148}
+[21:25:31] [Server thread/INFO]: [Not Secure] <berserk_3984> KITTU WHERE?
+[21:25:39] [Server thread/INFO]: [Not Secure] <daddiji1.1> deforesation
+[21:27:38] [Server thread/INFO]: [Not Secure] <berserk_3984> sleep
+[21:27:39] [Server thread/INFO]: berserk_3984 lost connection: Disconnected
+[21:27:39] [Server thread/INFO]: berserk_3984 left the game
+[21:27:56] [Server thread/INFO]: berserk_3984[/10.212.133.10:54438] logged in with entity id 19729 at (-428.8433848074067, 68.0, 1131.214814171628)
+[21:27:56] [Server thread/INFO]: berserk_3984 joined the game
+[21:28:00] [Server thread/INFO]: berserk_3984 lost connection: Disconnected
+[21:28:00] [Server thread/INFO]: berserk_3984 left the game
+[21:29:29] [Server thread/INFO]: berserk_3984[/10.212.133.10:54455] logged in with entity id 20363 at (-428.8433848074067, 68.0, 1131.214814171628)
+[21:29:29] [Server thread/INFO]: berserk_3984 joined the game
+[21:32:21] [Server thread/INFO]: [Not Secure] <berserk_3984> plank le aya mein 2 stack
+[21:33:01] [Server thread/INFO]: [Not Secure] <berserk_3984> upar chestroom bana lenge
+[21:33:18] [Server thread/INFO]: [Not Secure] <berserk_3984> bas bhai itna boht hai
+[21:33:24] [Server thread/INFO]: [Not Secure] <daddiji1.1> na upar bhi tradesrs + chest room alagse
+[21:33:58] [Server thread/INFO]: [Not Secure] <berserk_3984> merko chest lagani hai so bata de kaha hoga chest room
+[21:34:40] [Server thread/INFO]: [Not Secure] <berserk_3984> bata kittu
+[21:34:46] [Server thread/INFO]: [Not Secure] <berserk_3984> where
+[21:34:53] [Server thread/INFO]: [Not Secure] <daddiji1.1> upar tu ek jagan bana le na
+[21:35:01] [Server thread/INFO]: [Not Secure] <daddiji1.1> baaki jaga trades
+[21:40:08] [Server thread/INFO]: [Not Secure] <berserk_3984> leave
+[21:40:14] [Server thread/INFO]: daddiji1.1 lost connection: Disconnected
+[21:40:14] [Server thread/INFO]: daddiji1.1 left the game
+[21:40:24] [Server thread/INFO]: daddiji1.1[/10.212.133.7:61359] logged in with entity id 22713 at (-260.6426712010438, 68.0, 1053.2242933920804)
+[21:40:24] [Server thread/INFO]: daddiji1.1 joined the game
+[21:42:01] [Server thread/INFO]: [Not Secure] <berserk_3984> kittu tagde mob spawn hogye
+[21:42:18] [Server thread/INFO]: [Not Secure] <daddiji1.1> where?
+[21:42:26] [Server thread/INFO]: [Not Secure] <berserk_3984> ganne ke keth mein
+[21:43:00] [Server thread/INFO]: daddiji1.1 was shot by Skeleton
+[21:44:02] [Server thread/INFO]: Set daddiji1.1's game mode to Survival Mode
+[21:44:32] [Server thread/INFO]: berserk_3984 has made the advancement [Suit Up]
+[21:45:35] [Server thread/INFO]: [Not Secure] <berserk_3984> kittu coming ?
+[21:46:31] [Server thread/INFO]: [Not Secure] <daddiji1.1> where?
+[21:46:39] [Server thread/INFO]: [Not Secure] <berserk_3984> khet
+[21:47:36] [Server thread/INFO]: [Not Secure] <berserk_3984> oyr ab kal khelte hai
+[21:47:46] [Server thread/INFO]: [Not Secure] <daddiji1.1> bed laga de
+[21:47:59] [Server thread/INFO]: [Not Secure] <daddiji1.1> andar aur villagers ko bitha de /lock karde
+[21:48:02] [Server thread/INFO]: [Not Secure] <daddiji1.1> fir kal
+[21:49:34] [Server thread/INFO]: [Not Secure] <daddiji1.1> cover to kar deta
+[21:49:43] [Server thread/INFO]: [Not Secure] <daddiji1.1> windows khuli hui hai
+[21:49:52] [Server thread/INFO]: [Not Secure] <berserk_3984> dirt block hai kar de
+[21:50:57] [Server thread/INFO]: [Not Secure] <berserk_3984> bhai log dede
+[21:51:07] [Server thread/INFO]: [Not Secure] <berserk_3984> aja so ja
+[21:51:19] [Server thread/INFO]: [Not Secure] <daddiji1.1> bro villagres ?
+[21:51:26] [Server thread/INFO]: [Not Secure] <daddiji1.1> maine saare bed tod diye
+[21:52:26] [Server thread/INFO]: [Not Secure] <berserk_3984> bsdl
+[21:53:17] [Server thread/INFO]: [Not Secure] <berserk_3984> abe baaki toh aane de
+[21:53:18] [Server thread/INFO]: berserk_3984 lost connection: Disconnected
+[21:53:18] [Server thread/INFO]: berserk_3984 left the game
+[21:53:26] [Server thread/INFO]: berserk_3984[/10.212.133.10:54716] logged in with entity id 26366 at (-266.3815067072897, 68.0, 1060.7494028359665)
+[21:53:26] [Server thread/INFO]: berserk_3984 joined the game
+[21:53:36] [Server thread/INFO]: [Not Secure] <daddiji1.1> bread le aa
+[21:55:24] [Server thread/INFO]: [Not Secure] <berserk_3984> waha bsdk
+[21:55:43] [Server thread/INFO]: [Not Secure] <daddiji1.1> ooops sry
+[21:55:52] [Server thread/INFO]: [Not Secure] <berserk_3984> LE ISME BREAD HAI
+[21:55:59] [Server thread/INFO]: [Not Secure] <berserk_3984> ME GOING TO SLEEP
+[21:56:00] [Server thread/INFO]: berserk_3984 lost connection: Disconnected
+[21:56:00] [Server thread/INFO]: berserk_3984 left the game
+[22:09:55] [Server thread/INFO]: daddiji1.1 lost connection: Disconnected
+[22:09:55] [Server thread/INFO]: daddiji1.1 left the game
